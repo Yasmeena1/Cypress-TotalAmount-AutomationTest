@@ -1,0 +1,1 @@
+"# Cypress-TotalAmount-AutomationTest" 
